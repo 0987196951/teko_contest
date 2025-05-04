@@ -1,0 +1,5 @@
+inputs:
+- another_catalog.schema_a.table_a
+- another_catalog.schema_b.table_b
+outputs:
+- my_catalog.my_schema.my_table
